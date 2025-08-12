@@ -1,0 +1,37 @@
+# Подсистема для работы с партнёрами компании
+
+class Partner:
+    def __init__(self, name, contact_info):
+        self.name = name  # Имя партнёра
+        self.contact_info = contact_info  # Контактная информация партнёра
+        self.history = []  # История реализации продукции
+
+    def add_history(self, product, date):
+        self.history.append({'product': product, 'date': date})  # Добавление записи в историю
+
+class PartnerSystem:
+    def __init__(self):
+        self.partners = []  # Список партнёров
+
+    def add_partner(self, name, contact_info):
+        partner = Partner(name, contact_info)  # Создание нового партнёра
+        self.partners.append(partner)  # Добавление партнёра в систему
+
+    def edit_partner(self, partner, name=None, contact_info=None):
+        if name:
+            partner.name = name  # Изменение имени партнёра
+        if contact_info:
+            partner.contact_info = contact_info  # Изменение контактной информации партнёра
+
+    def view_partners(self):
+        return [(partner.name, partner.contact_info) for partner in self.partners]  # Список всех партнёров
+
+    def view_history(self, partner):
+        return partner.history  # История реализации продукции партнёра
+
+# Пример использования
+partner_system = PartnerSystem()  # Создание экземпляра системы партнёров
+partner_system.add_partner('Компания А', 'contact@companyA.com')  # Добавление партнёра
+partner_system.partners[0].add_history('Продукт 1', '2023-01-01')  # Добавление истории реализации
+print(partner_system.view_partners())  # Вывод списка партнёров
+print(partner_system.view_history(partner_system.partners[0]))  # Вывод истории реализации для первого партнёра

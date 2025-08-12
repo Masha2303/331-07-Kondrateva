@@ -1,0 +1,45 @@
+C:\Users\Alex03\source\repos\main\main\bin\Debug\net8.0-windows\main.exe
+C:\Users\Alex03\source\repos\main\main\bin\Debug\net8.0-windows\main.deps.json
+C:\Users\Alex03\source\repos\main\main\bin\Debug\net8.0-windows\main.runtimeconfig.json
+C:\Users\Alex03\source\repos\main\main\bin\Debug\net8.0-windows\main.dll
+C:\Users\Alex03\source\repos\main\main\bin\Debug\net8.0-windows\main.pdb
+C:\Users\Alex03\source\repos\main\main\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alex03\source\repos\main\main\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alex03\source\repos\main\main\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\Alex03\source\repos\main\main\obj\Debug\net8.0-windows\main.csproj.AssemblyReference.cache
+C:\Users\Alex03\source\repos\main\main\obj\Debug\net8.0-windows\main.Form1.resources
+C:\Users\Alex03\source\repos\main\main\obj\Debug\net8.0-windows\main.csproj.GenerateResource.cache
+C:\Users\Alex03\source\repos\main\main\obj\Debug\net8.0-windows\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex03\source\repos\main\main\obj\Debug\net8.0-windows\main.AssemblyInfoInputs.cache
+C:\Users\Alex03\source\repos\main\main\obj\Debug\net8.0-windows\main.AssemblyInfo.cs
+C:\Users\Alex03\source\repos\main\main\obj\Debug\net8.0-windows\main.csproj.CoreCompileInputs.cache
+C:\Users\Alex03\source\repos\main\main\obj\Debug\net8.0-windows\main.csproj.CopyComplete
+C:\Users\Alex03\source\repos\main\main\obj\Debug\net8.0-windows\main.dll
+C:\Users\Alex03\source\repos\main\main\obj\Debug\net8.0-windows\refint\main.dll
+C:\Users\Alex03\source\repos\main\main\obj\Debug\net8.0-windows\main.pdb
+C:\Users\Alex03\source\repos\main\main\obj\Debug\net8.0-windows\main.genruntimeconfig.cache
+C:\Users\Alex03\source\repos\main\main\obj\Debug\net8.0-windows\ref\main.dll
+C:\Users\Alex03\source\repos\main\main\obj\Debug\net8.0-windows\main.main.resources
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\bin\Debug\net8.0-windows\main.exe
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\bin\Debug\net8.0-windows\main.deps.json
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\bin\Debug\net8.0-windows\main.runtimeconfig.json
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\bin\Debug\net8.0-windows\main.dll
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\bin\Debug\net8.0-windows\main.pdb
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\obj\Debug\net8.0-windows\main.csproj.AssemblyReference.cache
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\obj\Debug\net8.0-windows\main.Form1.resources
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\obj\Debug\net8.0-windows\main.main.resources
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\obj\Debug\net8.0-windows\main.csproj.GenerateResource.cache
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\obj\Debug\net8.0-windows\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\obj\Debug\net8.0-windows\main.AssemblyInfoInputs.cache
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\obj\Debug\net8.0-windows\main.AssemblyInfo.cs
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\obj\Debug\net8.0-windows\main.csproj.CoreCompileInputs.cache
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\obj\Debug\net8.0-windows\main.sourcelink.json
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\obj\Debug\net8.0-windows\main.csproj.CopyComplete
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\obj\Debug\net8.0-windows\main.dll
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\obj\Debug\net8.0-windows\refint\main.dll
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\obj\Debug\net8.0-windows\main.pdb
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\obj\Debug\net8.0-windows\main.genruntimeconfig.cache
+C:\Users\Alex03\OneDrive\Documente\GitHub\331-08-Kurilov\project 09\module_02_kurilov\src\main\obj\Debug\net8.0-windows\ref\main.dll
